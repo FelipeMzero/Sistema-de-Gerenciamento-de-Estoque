@@ -22,7 +22,7 @@ Ao executar o programa, um menu é exibido com as opções disponíveis. O usuá
 
 ## Requisitos
 
-- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 3.x
+- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Como Executar
 
