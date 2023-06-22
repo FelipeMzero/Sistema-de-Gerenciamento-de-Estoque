@@ -1,3 +1,5 @@
+<!-- Sistema de Gerenciamento de Estoque -->
+
 # Sistema de Gerenciamento de Estoque
 
 Este projeto consiste em um sistema de gerenciamento de estoque que permite visualizar o estoque atual de produtos, comprar produtos e encerrar o programa. O script em Python é responsável por executar as funcionalidades do sistema.
@@ -20,7 +22,7 @@ Ao executar o programa, um menu é exibido com as opções disponíveis. O usuá
 
 ## Requisitos
 
-- Python 3.x
+- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 3.x
 
 ## Como Executar
 
