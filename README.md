@@ -2,6 +2,12 @@
 
 Este projeto consiste em um sistema de gerenciamento de estoque que permite visualizar o estoque atual de produtos, comprar produtos e encerrar o programa. O script em Python é responsável por executar as funcionalidades do sistema.
 
+## Equipe
+
+- Alonso - Desenvolvedor Back-end
+- Edilson - Desenvolvedor Back-end
+- Flavia Pessoa Monteiro - Mentora do Projeto
+
 ## Funcionalidades
 
 - **Ver estoque:** exibe o estoque atual de produtos, incluindo o nome, preço e quantidade disponível.
